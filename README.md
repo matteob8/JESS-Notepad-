@@ -1,2 +1,4 @@
-# JESS-Notepad-
-Basic Solarized Syntax hilight configuration for production rule langauge JESS in Notepad++ 
+# JESS-Notepad-Syntax
+Basic Solarized Syntax highlight configuration for production rule language JESS in Notepad++ 
+
+And some further temporary code.
